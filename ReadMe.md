@@ -1,5 +1,26 @@
-# 💫 About Me:
-👯 I’m currently working on<br>Innovative projects focused on accident detection using smartphone sensors, incorporating cutting-edge AI/ML technologies to enhance real-time safety solutions.<br><br>🤝 I’m looking to collaborate on<br>AI/ML-driven projects, particularly those that involve predictive modeling, sensor integration, and data science applications.<br><br>🌱 I’m currently learning<br>Expanding my skills in web development (Django, Flask, Spring), mobile app development (React Native, Flutter, Firebase), and automation testing (Selenium, Postman API), while deepening my expertise in AI/ML.<br><br>💬 Ask me about<br>Developing mobile applications, AI/ML technologies, and projects involving real-time data for accident detection.<br><br>⚡ Fun fact<br>I am passionate about leveraging technology to create impactful, real-world solutions that improve safety and enhance user experiences.<br>⚡ Fun fact
+# 🚀 Innovator | AI/ML Enthusiast | Full-Stack Developer  
+
+I’m passionate about building **AI-powered real-time safety solutions**, currently focusing on **accident detection using smartphone sensors**. By integrating **AI/ML, sensor data, and predictive analytics**, I aim to enhance road safety and real-time hazard detection.  
+
+## 🤝 Open to Collaborations In  
+- **AI/ML-driven projects** – predictive modeling, real-time analytics, and safety applications  
+- **Full-stack development** – Django, Flask, Spring, Express.js, Three.js  
+- **Data visualization & analytics** – Power BI, OpenCV, TensorFlow, Keras  
+
+## 🌱 Exploring & Learning  
+- **Web & Mobile Development** – React Native, Flutter, Firebase, Express.js  
+- **Computer Vision & Deep Learning** – OpenCV, TensorFlow, Keras  
+- **Automation & Testing** – Selenium, Postman API  
+- **3D Web & Interactive Graphics** – Three.js  
+
+## 💡 Let’s Talk About  
+- **Developing AI-driven web & mobile applications**  
+- **Integrating smartphone sensors with AI for real-time insights**  
+- **Building interactive visualizations with Power BI & OpenCV**  
+
+## ⚡ Fun Fact  
+I love **turning data into actionable insights** and using AI/ML to **create real-world solutions that enhance safety and user experiences**.
+
 
 
 ## 🌐 Socials:
