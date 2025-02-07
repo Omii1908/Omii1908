@@ -1,6 +1,7 @@
-# 🚀 Innovator | AI/ML Enthusiast | Full-Stack Developer  
+# Hi, I'm Om 👋  
+I’m a software developer with expertise in Java, Python, SQL, and data-driven applications, currently focusing on full-stack development with React, Flask/Django, and MongoDB. Passionate about AI/ML and data analysis, I actively work on sensor-based predictive modeling, and aim to solve real-world problems through technology.
+ 
 
-I’m passionate about building **AI-powered real-time safety solutions**, currently focusing on **accident detection using smartphone sensors**. By integrating **AI/ML, sensor data, and predictive analytics**, I aim to enhance road safety and real-time hazard detection.  
 
 ## 🤝 Open to Collaborations In  
 - **AI/ML-driven projects** – predictive modeling, real-time analytics, and safety applications  
@@ -91,5 +92,6 @@ I love **turning data into actionable insights** and using AI/ML to **create rea
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omi1908) 
 
-  
+
+"Let's collaborate to build intelligent, data-driven solutions that make an impact. Reach out and let’s create something remarkable!  🤝" 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
