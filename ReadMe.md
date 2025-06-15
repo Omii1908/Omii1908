@@ -108,6 +108,18 @@ I’m always open to collaboration, internships, or mentorship opportunities in 
 
 ---
 
-> "I don’t just write code. I build things that matter."
+
+## 🧠 Sanskrit Quote That Inspires This Repository
+
+> **विद्यां चाविद्यां च यस्तद्वेदोभयंसह।  
+अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥**  
+> – *Isha Upanishad, Verse 11*
+
+**Translation**:  
+*He who knows both knowledge and ignorance together, overcomes death through ignorance and attains immortality through knowledge.*
+
+> ⚡ *This quote symbolizes the purpose of Manthan: to embrace learning in all forms and rise through conscious effort and applied wisdom.*
+
+---
 
 <!-- Made with ❤️ by Omii | Inspired by growth, driven by impact -->
