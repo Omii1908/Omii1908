@@ -8,8 +8,6 @@ I’m a passionate and curious Software Developer, with a strong foundation in *
 I aspire to become a full-stack developer with core specializations in:
 - ✅ Artificial Intelligence & Machine Learning
 - ✅ Mobile Development (Android + iOS)
-- ✅ Data-Driven Predictive Systems
-- ✅ Real-Time Sensor-based Applications
 
 ---
 
